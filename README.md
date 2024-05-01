@@ -14,7 +14,6 @@ This project provides a comprehensive analysis of educational institutions in Ge
 ## Technologies Used
 - **R**: For data manipulation, analysis, and visualization.
 - **Tidyverse**: Including dplyr and ggplot2 for data manipulation and creating visualizations.
-- **Shiny**: To build interactive web components from R.
 - **sf and urbnmapr**: For managing and visualizing spatial data.
 
 ## Detailed Questions & Analysis
