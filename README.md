@@ -19,21 +19,27 @@ This project provides a comprehensive analysis of educational institutions in Ge
 ## Detailed Questions & Analysis
 ### Q1: Geographical Distribution
 - **Interactive Map**: Showcasing the spread of institutions across counties.
+![image](https://github.com/mohammedzubairshaik20/Geographical-Demographic-Analysis-of-Georgia-Educational-Institutions-Using-R/assets/125076458/11dd8396-8edb-4cd7-a0a7-a87dda6901df)
 
 ### Q2: Institution Types and Control
 - **Visualizations**: Bar and pie charts showing the breakdown of public vs. private and various institution levels.
+![image](https://github.com/mohammedzubairshaik20/Geographical-Demographic-Analysis-of-Georgia-Educational-Institutions-Using-R/assets/125076458/4d7ab703-fbdd-4093-baee-0ba4087714c0)
 
 ### Q3: Degree-Granting Institutions
 - **Data Presentation**: Proportion of degree-granting institutions displayed in a pie chart.
+![image](https://github.com/mohammedzubairshaik20/Geographical-Demographic-Analysis-of-Georgia-Educational-Institutions-Using-R/assets/125076458/427f724a-d02d-4942-8e95-0054be49f77f)
 
 ### Q4: HBCUs in Georgia
 - **Impact Analysis**: Number and educational significance of HBCUs summarized.
+![image](https://github.com/mohammedzubairshaik20/Geographical-Demographic-Analysis-of-Georgia-Educational-Institutions-Using-R/assets/125076458/9edcd105-a5e1-4725-977c-e5805ba0faa7)
 
 ### Q5: Top Counties by Number of Institutions
 - **Rankings**: Bar chart of top 10 counties by number of institutions.
+![image](https://github.com/mohammedzubairshaik20/Geographical-Demographic-Analysis-of-Georgia-Educational-Institutions-Using-R/assets/125076458/31866c6e-13ce-4c5d-aed0-49cb5fb13171)
 
 ### Q6: Enrollment Trends
 - **Trend Lines**: Line graphs depicting changes from 2019 to 2021.
+![image](https://github.com/mohammedzubairshaik20/Geographical-Demographic-Analysis-of-Georgia-Educational-Institutions-Using-R/assets/125076458/2a8612b4-cd77-41d0-9a61-ae70f3e959cf)
 
 ## Results
 ### Maps and Charts
